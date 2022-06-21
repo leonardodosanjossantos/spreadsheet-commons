@@ -16,7 +16,7 @@
 		<lombok.version>1.18.8</lombok.version>
 		<apache.poi>3.9</apache.poi>
 		<spring.boot>2.1.6.RELEASE</spring.boot>
-		<mysql>8.0.16</mysql>
+		<mysql>8.0.28</mysql>
 	</properties>
 
 	<dependencies>
